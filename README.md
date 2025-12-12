@@ -1,4 +1,4 @@
-# Lingaugem de Programação I
+# Linguagem de Programação I
 
 ## Nome Completo
 Carlos Tadeu Gama Filho.  
